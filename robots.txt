@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /forms/
+Disallow: /assets/
+
+Sitemap: https://watchguard-vpn.github.io/sitemap.xml
